@@ -1,0 +1,7 @@
+*.o
+.svn
+.DS_Store
+\#*\#
+*~
+project1
+*.zip
